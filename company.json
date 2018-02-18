@@ -1,0 +1,282 @@
+[
+  {
+    "email": "company1@gmail.com",
+    "password": "1234qwerty",
+    "companyName": "Apple",
+    "name": "Иван",
+    "surname": "Иванов",
+    "position": "Менеджер",
+    "website": "https://stackoverflow.com/questions/24348437/mongoose-select-a-specific-field-with-find",
+    "tags": ["apple"],
+    "desc": "Компания ",
+    "phone": "8(981)759-92-20",
+    "logo": "/images/default-avatar/default-avatar-3.jpg"
+  }
+
+  {
+    "email": "obit@gmail.com",
+    "password": "1234qwerty",
+    "companyName": "Obit",
+    "name": "Антон",
+    "surname": "Гусев",
+    "position": "Менеджер",
+    "website": "https://www.obit.ru/company/it/?gclid=EAIaIQobChMI3-q01-Op2QIVSLHtCh1X0ANiEAAYASAAEgIAU_D_BwE",
+    "tags": ["Obit"],
+    "desc": "Мы обеспечим ИТ-поддержку всего компьютерного и сетевого оборудования вашей компании. Решим все задачи, связанные с информационно-техническим обеспечением: от заправки картриджей до администрирования серверов.",
+    "phone": "8(911)291-49-11",
+    "logo": "http://obit.spb-internet.ru/upload/logo/27.png"
+  },
+
+  {
+    "email": "vk@mail.com",
+    "password": "1234qwerty",
+    "companyName": "ВКонтакте",
+    "name": "Алексей",
+    "surname": "Смойленко",
+    "position": "Коммерческий директор",
+    "website": "https://vk.com/about",
+    "tags": ["ВКонтакте"],
+    "desc": "ВКонтакте — одна из самых известных высокотехнологичных российских компаний. У нас работают лучшие специалисты России, мы привыкли ставить и решать амбициозные задачи.",
+    "phone": "8(911)651-54-13",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/500px-VK.com-logo.svg.png"
+  },
+
+  {
+    "email": "add@mail.ru",
+    "password": "1234qwerty",
+    "companyName": "@mail.ru",
+    "name": "Лев",
+    "surname": "Крюков",
+    "position": "СRM-менеджер",
+    "website": "https://corp.mail.ru/ru/",
+    "tags": ["@mail.ru"],
+    "desc": "Запуская новые продукты или инвестируя в проекты на рынке, мы всегда думаем о том, насколько они дают синергетический эффект тем сервисам и продуктам, которые у нас уже есть.",
+    "phone": "8(911)651-54-13",
+    "logo": "https://logos-download.com/wp-content/uploads/2016/02/mail-ru-logo-transparent.png"
+  },
+
+  {
+    "email": "adidas@gmail.com",
+    "password": "1234qwerty",
+    "companyName": "adidas",
+    "name": "Александр",
+    "surname": "Гринблат",
+    "position": "Менеджер",
+    "website": "http://www.adidas.ru/",
+    "tags": ["Adidas"],
+    "desc": "Adidas — компании, собравшая в себе современные технологии, облегчающие тренировки спортсменам, и характеризующееся такими неотъемлемыми показателями, как современность экипировки для занятий спортом, инновации, революционные технологии, «умные продукты».",
+    "phone": "8(932)454-54-34",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/302px-Adidas_Logo.svg.png"
+  },
+
+  {
+    "email": "vans@gmail.com",
+    "password": "1234qwerty",
+    "companyName": "Vans",
+    "name": "Михаил",
+    "surname": "Елисеев",
+    "position": "Менеджер",
+    "website": "https://vans.ru/",
+    "tags": ["Vans"],
+    "desc": "Vans – бренд, известный своей поддержкой молодежной культуры, объединил силы с обладателями многочисленных премий Грэмми – Metallica, чтобы выпустить эксклюзивную коллекцию обуви, одежды и аксессуаров.",
+    "phone": "8(921)232-32-21",
+    "logo": "https://vans.ru/local/templates/vans/images/logo.png"
+  },
+
+  {
+    "email": "newbalance@mail.com",
+    "password": "1234qwerty",
+    "companyName": "New Balance",
+    "name": "Даниил",
+    "surname": "Десятников",
+    "position": "Менеджер",
+    "website": "https://newbalance.ru/",
+    "tags": ["New Balance"],
+    "desc": "Вот уже более ста лет, компания New Balance использует собственные инновационные технологии для создания лучшей беговой обуви.",
+    "phone": "8(921)232-32-21",
+    "logo": "http://logok.org/wp-content/uploads/2014/06/New-Balance-NB-logo-880x704.png"
+  },
+
+  {
+    "email": "microsoft@mail.com",
+    "password": "1234qwerty",
+    "companyName": "Microsoft",
+    "name": "Андрей",
+    "surname": "Загоскин",
+    "position": "Менеджер",
+    "website": "https://www.microsoft.com/ru-ru",
+    "tags": ["Microsoft"],
+    "desc": "Миссия и ценности компании Майкрософт заключаются в том, чтобы помогать людям и компаниям по всему миру полностью раскрывать свой потенциал.",
+    "phone": "8(921)232-32-21",
+    "logo": "http://pngimg.com/uploads/microsoft/microsoft_PNG14.png"
+  },
+
+  {
+    "email": "hh@mail.com",
+    "password": "1234qwerty",
+    "companyName": "HeadHunter",
+    "name": "Афанасий",
+    "surname": "Иоффе",
+    "position": "Менеджер",
+    "website": "https://spb.hh.ru/",
+    "tags": ["HeadHunter"],
+    "desc": "HeadHunter позволяет найти работу в России. HeadHunter - это качественная база резюме и вакансий и современные сервисы для поиска работы и персонала.",
+    "phone": "8(921)232-32-21",
+    "logo": "https://avatars0.githubusercontent.com/u/152753?s=200&v=4"
+  },
+
+  {
+    "email": "jbl@mail.com",
+    "password": "1234qwerty",
+    "companyName": "JBL",
+    "name": "Максим",
+    "surname": "Машенин",
+    "position": "Менеджер",
+    "website": "https://www.jbl.com/",
+    "tags": ["JBL"],
+    "desc": "JBL — американская компания, производящая акустику и аудиотехнику.",
+    "phone": "8(921)232-32-21",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/JBL_Logo.svg/2000px-JBL_Logo.svg.png"
+  },
+
+  {
+    "email": "yandex@mail.com",
+    "password": "1234qwerty",
+    "companyName": "Yandex",
+    "name": "Георгий",
+    "surname": "Правдин",
+    "position": "Менеджер",
+    "website": "https://yandex.ru/company/",
+    "tags": ["Yandex"],
+    "desc": "Яндекс - крупнейшая российская поисковая система и интернет-портал",
+    "phone": "8(921)232-32-21",
+    "logo": "https://avatars.mds.yandex.net/get-bunker/128809/56d664ee2570747391ff81d0327df5ac0ada5ddb/orig"
+  },
+
+   {
+    "email": "INLINE@mail.com",
+    "password": "1234qwerty",
+    "companyName": "INLINE Technologies Group",
+    "name": "Георгий",
+    "surname": "Правдин",
+    "position": "Менеджер",
+    "website": "http://www.itgrp.ru/",
+    "tags": ["INLINE Technologies Group"],
+    "desc": "ITG (INLINE Technologies Group) – многопрофильный холдинг, предоставляющий услуги в области информационных технологий.",
+    "phone": "8(921)232-32-21",
+    "logo": "https://www.dtln.ru/files/styles/presscenter-teaser/public/press-center/itg_0.png?itok=BAE6V5Xi"
+  },
+
+  {
+    "email": "QUALCOMM@mail.com",
+    "password": "1234qwerty",
+    "companyName": "QUALCOMM",
+    "name": "Jack",
+    "surname": "Sally",
+    "position": "Маркетолог",
+    "website": "https://www.qualcomm.com/",
+    "tags": ["QUALCOMM"],
+    "desc": "Qualcomm inventions are the foundational technologies that others build upon—inventing new industries and applications that have global impact.",
+    "phone": "8(921)232-32-21",
+    "logo": "https://pbs.twimg.com/profile_images/2695835453/349b4cfd6d9abc9959096301e4bbd4dc_400x400.png"
+  },
+
+   {
+    "email": "Yahoo@mail.com",
+    "password": "1234qwerty",
+    "companyName": "Yahoo",
+    "name": "Анастасия",
+    "surname": "Брук",
+    "position": "Менеджер",
+    "website": "https://www.yahoo.com/",
+    "tags": ["Yahoo"],
+    "desc": "Yahoo! — американская компания, владевшая второй по популярности в мире поисковой системой и предоставляющая ряд сервисов, объединённых интернет-порталом Yahoo!",
+    "phone": "8(921)232-32-21",
+    "logo": "http://icons.iconarchive.com/icons/martz90/circle/512/yahoo-icon.png"
+  },
+
+  {
+    "email": "Facebook@mail.com",
+    "password": "1234qwerty",
+    "companyName": "Facebook",
+    "name": "Мария",
+    "surname": "Крон",
+    "position": "Маркетолог",
+    "website": "https://www.facebook.com/careers/",
+    "tags": ["Facebook"],
+    "desc": "Facebook — крупнейшая социальная сеть в мире и одноименная компания, владеющая ею.",
+    "phone": "8(921)232-32-21",
+    "logo": "https://www.seeklogo.net/wp-content/uploads/2016/09/facebook-icon-preview-1-400x400.png"
+  },
+
+  {
+    "email": "eBay@mail.com",
+    "password": "1234qwerty",
+    "companyName": "eBay",
+    "name": "Никита",
+    "surname": "Черепанов",
+    "position": "Менеджер",
+    "website": "https://www.facebook.com/careers/",
+    "tags": ["eBay"],
+    "desc": "Buy and sell electronics, cars, fashion apparel, collectibles, sporting goods, digital cameras, baby items, coupons, and everything else on eBay, the world's online marketplace.",
+    "phone": "8(921)232-32-21",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/EBay_logo.png/640px-EBay_logo.png"
+  },
+
+  {
+    "email": "PayPal@mail.com",
+    "password": "1234qwerty",
+    "companyName": "PayPal",
+    "name": "Марк",
+    "surname": "Петров",
+    "position": "Маркетолог",
+    "website": "https://www.paypal.com/ru/home",
+    "tags": ["PayPal"],
+    "desc": "PayPal — крупнейшая дебетовая электронная платёжная система. ",
+    "phone": "8(921)232-32-21",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/93/PayPal_Logo2014.png"
+  },
+
+  {
+    "email": "HewlettPackard@mail.com",
+    "password": "1234qwerty",
+    "companyName": "Hewlett-Packard",
+    "name": "Глеб",
+    "surname": "Сорвин",
+    "position": "Менеджер",
+    "website": "http://www8.hp.com/ru/ru/home.html",
+    "tags": ["Hewlett-Packard"],
+    "desc": "Hewlett-Packard (HP)— одна из крупнейших американских компаний в сфере информационных технологий",
+    "phone": "8(921)232-32-21",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/HP_logo_630x630.png"
+  },
+
+  {
+    "email": "Amazon@mail.com",
+    "password": "1234qwerty",
+    "companyName": "Amazon",
+    "name": "Илья",
+    "surname": "Суворов",
+    "position": "Маркетолог",
+    "website": "https://www.amazon.com/ref=nav_logo/139-4182298-3342655",
+    "tags": ["Amazon"],
+    "desc": "Amazon.com, Inc. — американская компания, крупнейшая в мире по обороту среди продающих товары и услуги через Интернет.",
+    "phone": "8(921)232-32-21",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Amazon_logo_plain.svg/2000px-Amazon_logo_plain.svg.png"
+  },
+
+  {
+    "email": "JuniperNetworks@mail.com",
+    "password": "1234qwerty",
+    "companyName": "Juniper Networks",
+    "name": "Игорь",
+    "surname": "Романов",
+    "position": "Менеджер",
+    "website": "https://www.juniper.net/us/en/",
+    "tags": ["Juniper Networks"],
+    "desc": "We exist to solve the world’s most difficult problems in networking. Today, complexity is at the heart of those problems. Simple is our obsession. And simple always starts with engineering.",
+    "phone": "8(921)232-32-21",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Juniper_Networks_logo.svg/2000px-Juniper_Networks_logo.svg.png"
+  }
+
+]
