@@ -1,17 +1,17 @@
 [
-  {
-    "email": "company1@gmail.com",
-    "password": "1234qwerty",
-    "companyName": "Apple",
-    "name": "Иван",
-    "surname": "Иванов",
-    "position": "Менеджер",
-    "website": "https://stackoverflow.com/questions/24348437/mongoose-select-a-specific-field-with-find",
-    "tags": ["apple"],
-    "desc": "Компания ",
-    "phone": "8(981)759-92-20",
-    "logo": "/images/default-avatar/default-avatar-3.jpg"
-  }
+  // {
+  //   "email": "company1@gmail.com",
+  //   "password": "1234qwerty",
+  //   "companyName": "Apple",
+  //   "name": "Иван",
+  //   "surname": "Иванов",
+  //   "position": "Менеджер",
+  //   "website": "https://stackoverflow.com/questions/24348437/mongoose-select-a-specific-field-with-find",
+  //   "tags": ["apple"],
+  //   "desc": "Компания ",
+  //   "phone": "8(981)759-92-20",
+  //   "logo": "/images/default-avatar/default-avatar-3.jpg"
+  // }
 
   {
     "email": "obit@gmail.com",
@@ -277,6 +277,20 @@
     "desc": "We exist to solve the world’s most difficult problems in networking. Today, complexity is at the heart of those problems. Simple is our obsession. And simple always starts with engineering.",
     "phone": "8(921)232-32-21",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Juniper_Networks_logo.svg/2000px-Juniper_Networks_logo.svg.png"
-  }
+  },
+
+  {
+    "email": "Dell_EMC@mail.com",
+    "password": "1234qwerty",
+    "companyName": "Dell EMC",
+    "name": "Иван",
+    "surname": "Иванов",
+    "position": "Маркетолог",
+    "website": "https://www.amazon.com/ref=nav_logo/139-4182298-3342655",
+    "tags": ["Dell EMC"],
+    "desc": "Dell EMC — американская компания, одна из крупнейших в мире корпораций на рынке продуктов, услуг и решений для хранения и управления информацией.",
+    "phone": "8(921)232-32-21",
+    "logo": "https://www.underconsideration.com/brandnew/archives/dell_2016_logo_emc.png"
+  },
 
 ]
